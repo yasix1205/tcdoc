@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyasix_wiki=self.webpackChunkyasix_wiki||[]).push([[8413],{5255:function(e){e.exports=JSON.parse('{"permalink":"/docusaurus/blog/page/3","page":3,"postsPerPage":10,"totalPages":4,"totalCount":32,"previousPage":"/docusaurus/blog/page/2","nextPage":"/docusaurus/blog/page/4","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

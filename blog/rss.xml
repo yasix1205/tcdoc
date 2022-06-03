@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>天诚网 Blog</title>
+        <link>https://your-docusaurus-test-site.com/docusaurus/blog</link>
+        <description>天诚网 Blog</description>
+        <lastBuildDate>Fri, 03 Jun 2022 04:09:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[test]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/test</link>
+            <guid>/test</guid>
+            <pubDate>Fri, 03 Jun 2022 04:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<iframe style="width:600px;height:338px" frameborder="no" src="http://go.plvideo.cn/front/video/preview?vid=09066a00e9c0cdc8c5daab10dbe5b800_0"></iframe>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[查看兼职发布房源]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/view-part-time-release-house</link>
+            <guid>view-part-time-release-house</guid>
+            <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="https://streamja.com/embed/6KknN"]]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/6KknN" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>兼职</category>
+            <category>房源</category>
+        </item>
+        <item>
+            <title><![CDATA[租售中心]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/rent-sell-center</link>
+            <guid>rent-sell-center</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="https://streamja.com/embed/zpRkk"]]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/zpRkk" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>租售中心</category>
+        </item>
+        <item>
+            <title><![CDATA[赚工分]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/earn-gf</link>
+            <guid>earn-gf</guid>
+            <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="https://streamja.com/embed/5KQgg"]]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/5KQgg" allowfullscreen="true" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content:encoded>
+            <category>工分</category>
+        </item>
+        <item>
+            <title><![CDATA[店长开票]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/manager-make-inovices</link>
+            <guid>manager-make-inovices</guid>
+            <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="https://streamja.com/embed/n3lde"]]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/n3lde" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>店长</category>
+            <category>开票</category>
+        </item>
+        <item>
+            <title><![CDATA[线上签约申请]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/sign-online</link>
+            <guid>sign-online</guid>
+            <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe height="500" width="100%" src='https://streamja.com/embed/29vgp']]></description>
+            <content:encoded><![CDATA[<iframe height="500" width="100%" src="https://streamja.com/embed/29vgp" frameborder="0" allowfullscreen="true" border="no"></iframe>]]></content:encoded>
+            <category>签约</category>
+            <category>申请</category>
+        </item>
+        <item>
+            <title><![CDATA[客户线上签约]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/client-sign-online</link>
+            <guid>client-sign-online</guid>
+            <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe height="500" width="100%" src='https://streamja.com/embed/arldJ']]></description>
+            <content:encoded><![CDATA[<iframe height="500" width="100%" src="https://streamja.com/embed/arldJ" frameborder="0" allowfullscreen="true" border="no"></iframe>]]></content:encoded>
+            <category>签约</category>
+            <category>客户</category>
+        </item>
+        <item>
+            <title><![CDATA[新房认购]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/newhouse-book</link>
+            <guid>newhouse-book</guid>
+            <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="https://streamja.com/embed/O4WN6"]]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/O4WN6" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>新房</category>
+            <category>认购</category>
+        </item>
+        <item>
+            <title><![CDATA[查看兼职和自由经纪人]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/view-part-free</link>
+            <guid>view-part-free</guid>
+            <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[掌控人员架构动态，不断优化获客渠道和推广]]></description>
+            <content:encoded><![CDATA[<p>掌控人员架构动态，不断优化获客渠道和推广</p><iframe src="https://streamja.com/embed/0jz9W" allowfullscreen="true" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content:encoded>
+            <category>兼职</category>
+            <category>自由经纪人</category>
+        </item>
+        <item>
+            <title><![CDATA[分成确认]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/money-sure</link>
+            <guid>money-sure</guid>
+            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe height="500" width="100%" src='https://streamja.com/embed/oeld5']]></description>
+            <content:encoded><![CDATA[<iframe height="500" width="100%" src="https://streamja.com/embed/oeld5" scrolling="0" border="0" frameborder="0" allowfullscreen="true"></iframe>]]></content:encoded>
+            <category>佣金</category>
+            <category>确认</category>
+        </item>
+        <item>
+            <title><![CDATA[绑定支付宝账号]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/alipay-account</link>
+            <guid>alipay-account</guid>
+            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src='https://streamja.com/embed/29vgz']]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/29vgz" width="100%" height="500" scrolling="0" border="0" frameborder="0" allowfullscreen="true"></iframe>]]></content:encoded>
+            <category>支付宝</category>
+        </item>
+        <item>
+            <title><![CDATA[成交报告查看]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/deal-report</link>
+            <guid>deal-report</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=939326911&bvid=BV17T4y1q7sY&cid=728628275&page=1" scrolling="no" border="0" frameborder="no" framespacing="0"]]></description>
+            <content:encoded><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=939326911&amp;bvid=BV17T4y1q7sY&amp;cid=728628275&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>成交报告</category>
+        </item>
+        <item>
+            <title><![CDATA[招募兼职(1)]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/part-time-1</link>
+            <guid>part-time-1</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/q5ldX" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>兼职</category>
+            <category>招募</category>
+        </item>
+        <item>
+            <title><![CDATA[招募兼职(2)]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/part-time-2</link>
+            <guid>part-time-2</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/6KkgK" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>兼职</category>
+            <category>招募</category>
+        </item>
+        <item>
+            <title><![CDATA[招募兼职(3)]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/part-time-3</link>
+            <guid>part-time-3</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/A5oNn" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>招募</category>
+            <category>兼职</category>
+        </item>
+        <item>
+            <title><![CDATA[经纪人入职申请]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/agent-onboard</link>
+            <guid>agent-onboard</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[注意事项]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="Direct link to heading">​</a></h4><p>提交入职申请的经纪人，是独立经纪人选择“独立经纪人”角色，是自由经纪人选择“自由经纪人”角色</p><p>经纪人快速申请，店长一级审批简化流程，自动入职自动绑定</p><iframe src="//player.bilibili.com/player.html?aid=426775921&amp;bvid=BV1r3411G7kS&amp;cid=727602500&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>独立经纪人</category>
+            <category>自由经纪人</category>
+        </item>
+        <item>
+            <title><![CDATA[共享客源]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/freeagent-share-client</link>
+            <guid>freeagent-share-client</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[注意事项]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="Direct link to heading">​</a></h4><p>自由经纪不共享，其对应的独立经纪人能看到该客户，但看不到客户全号。只有自由经纪人共享之后，独立经纪人才可以看到客户全号。</p><iframe src="https://streamja.com/embed/1N9wv" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>自由经纪人</category>
+            <category>客户</category>
+            <category>共享</category>
+        </item>
+        <item>
+            <title><![CDATA[天诚请假]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/leave</link>
+            <guid>leave</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[注意事项]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="Direct link to heading">​</a></h4><p>请假需要提前或当天进行提交</p><iframe src="//player.bilibili.com/player.html?aid=726855141&amp;bvid=BV1pS4y1z7vv&amp;cid=727602702&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>请假</category>
+            <category>申请</category>
+        </item>
+        <item>
+            <title><![CDATA[兼职推客赚佣]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/part-recommend-client</link>
+            <guid>part-recommend-client</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src='https://streamja.com/embed/arlde']]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/arlde" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>兼职</category>
+            <category>推客</category>
+            <category>佣金</category>
+        </item>
+        <item>
+            <title><![CDATA[新房报备]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/newhouse-report</link>
+            <guid>newhouse-report</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=554268783&bvid=BV1tv4y1A77p&cid=727602630&page=1"]]></description>
+            <content:encoded><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=554268783&amp;bvid=BV1tv4y1A77p&amp;cid=727602630&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>新房</category>
+            <category>报备</category>
+        </item>
+        <item>
+            <title><![CDATA[兼职发布房源]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/release-house</link>
+            <guid>release-house</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src='https://streamja.com/embed/6KkgQ']]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/6KkgQ" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>兼职</category>
+            <category>房源</category>
+        </item>
+        <item>
+            <title><![CDATA[编辑房源信息]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/edit-house-message</link>
+            <guid>edit-house-message</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=341856498&bvid=BV1p94y1U7V6&cid=727602494&page=1"]]></description>
+            <content:encoded><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=341856498&amp;bvid=BV1p94y1U7V6&amp;cid=727602494&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>二手房</category>
+            <category>房源信息</category>
+        </item>
+        <item>
+            <title><![CDATA[上传房源照片]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/house-image</link>
+            <guid>house-image</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=214282655&bvid=BV1Ka411E7Cr&cid=727602536&page=1"]]></description>
+            <content:encoded><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=214282655&amp;bvid=BV1Ka411E7Cr&amp;cid=727602536&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>二手房</category>
+            <category>图片</category>
+        </item>
+        <item>
+            <title><![CDATA[钥匙外借]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/key-borrow</link>
+            <guid>key-borrow</guid>
+            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=854275185&bvid=BV1M54y1f7gh&cid=727602527&page=1"]]></description>
+            <content:encoded><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=854275185&amp;bvid=BV1M54y1f7gh&amp;cid=727602527&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>二手房</category>
+            <category>钥匙</category>
+        </item>
+        <item>
+            <title><![CDATA[商铺录入]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/shops</link>
+            <guid>shops</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[注意事项]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="Direct link to heading">​</a></h4><blockquote><p>商铺录入无法选择小区街道等信息时，需要找产品新建商铺楼盘字典</p></blockquote><iframe src="//player.bilibili.com/player.html?aid=854265856&amp;bvid=BV1K54y1f7A2&amp;cid=726500456&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>商铺</category>
+            <category>楼盘字典</category>
+        </item>
+        <item>
+            <title><![CDATA[呼呗电话充值]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/recharge</link>
+            <guid>recharge</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[注意事项]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="Direct link to heading">​</a></h4><blockquote><p>费用充值和批量导入号码，在ERP后台操作；拔号、查看拨打记录、查看余额等在独立经纪人APP上进行</p></blockquote><iframe src="//player.bilibili.com/player.html?aid=811799407&amp;bvid=BV1U34y1E7Rd&amp;cid=726500526&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0"> </iframe>]]></content:encoded>
+            <category>呼呗</category>
+            <category>充值</category>
+        </item>
+        <item>
+            <title><![CDATA[考勤统计]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/attendance-statistics</link>
+            <guid>attendance-statistics</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[注意事项]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="Direct link to heading">​</a></h4><blockquote><p>店长及以上角色查看团队考勤统计</p></blockquote><p>自动统计考勤情况，自动生成报表，提高工作效率，节省办公时间</p><iframe src="//player.bilibili.com/player.html?aid=469370460&amp;bvid=BV1q5411X7X7&amp;cid=726504068&amp;page=1" allowfullscreen="true" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content:encoded>
+            <category>考勤统计</category>
+            <category>团队</category>
+            <category>个人</category>
+        </item>
+        <item>
+            <title><![CDATA[考勤地点]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/location</link>
+            <guid>location</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[注意事项]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="Direct link to heading">​</a></h4><blockquote><p>打卡地点需要人行部提前设置，已设置的地点可通过此方法查看</p></blockquote><iframe src="//player.bilibili.com/player.html?aid=854170246&amp;bvid=BV1v54y1Z7nV&amp;cid=725121117&amp;page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content:encoded>
+            <category>打卡</category>
+            <category>地点</category>
+            <category>规则</category>
+        </item>
+        <item>
+            <title><![CDATA[单边代理申请]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/singal-agent</link>
+            <guid>singal-agent</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe  src="https://streamja.com/embed/P5Z4l"]]></description>
+            <content:encoded><![CDATA[<iframe src="https://streamja.com/embed/P5Z4l" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>单边代理</category>
+        </item>
+        <item>
+            <title><![CDATA[跨城推客]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/recommend-customers-other-city</link>
+            <guid>recommend-customers-other-city</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=939347407&bvid=BV1WT4y1q7bj&cid=726500437&page=1"]]></description>
+            <content:encoded><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=939347407&amp;bvid=BV1WT4y1q7bj&amp;cid=726500437&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>客源</category>
+            <category>跨城</category>
+        </item>
+        <item>
+            <title><![CDATA[新增钥匙]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/add-key</link>
+            <guid>add-key</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=341790624&bvid=BV14R4y1w7MA&cid=726500451&page=1"]]></description>
+            <content:encoded><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=341790624&amp;bvid=BV14R4y1w7MA&amp;cid=726500451&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>二手房</category>
+            <category>钥匙</category>
+        </item>
+        <item>
+            <title><![CDATA[二手房带看]]></title>
+            <link>https://your-docusaurus-test-site.com/docusaurus/blog/take-look</link>
+            <guid>take-look</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[注意事项]]></description>
+            <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="Direct link to heading">​</a></h4><blockquote><p>经纪人需要在房源小区定位点一定范围内才能进行打带看，默认范围500米</p></blockquote><iframe src="//player.bilibili.com/player.html?aid=726823596&amp;bvid=BV1LS4y1z7Pi&amp;cid=726500443&amp;page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content:encoded>
+            <category>二手房</category>
+            <category>带看</category>
+        </item>
+    </channel>
+</rss>

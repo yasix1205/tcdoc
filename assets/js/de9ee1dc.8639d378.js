@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyasix_wiki=self.webpackChunkyasix_wiki||[]).push([[1888],{3592:function(s){s.exports=JSON.parse('{"label":"\u4e8c\u624b\u623f","permalink":"/docusaurus/blog/tags/\u4e8c\u624b\u623f","allTagsPath":"/docusaurus/blog/tags","count":5}')}}]);

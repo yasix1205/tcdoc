@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyasix_wiki=self.webpackChunkyasix_wiki||[]).push([[9443],{4813:function(s){s.exports=JSON.parse('{"label":"\u5145\u503c","permalink":"/docusaurus/blog/tags/\u5145\u503c","allTagsPath":"/docusaurus/blog/tags","count":1}')}}]);

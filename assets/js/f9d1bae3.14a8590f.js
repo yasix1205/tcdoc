@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyasix_wiki=self.webpackChunkyasix_wiki||[]).push([[6942],{5040:function(s){s.exports=JSON.parse('{"permalink":"/docusaurus/blog/tags/\u652f\u4ed8\u5b9d","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkyasix_wiki=self.webpackChunkyasix_wiki||[]).push([[5525],{5525:function(){}}]);
